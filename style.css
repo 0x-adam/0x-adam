@@ -1,0 +1,17 @@
+body {
+    background-color: white;
+    font-family: sans-serif; /* Choose your preferred font */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the body takes up full viewport height */
+    margin: 0; /* Remove default body margins */
+}
+
+.container {
+    text-align: center; 
+}
+
+h1 {
+    color: black;
+}
